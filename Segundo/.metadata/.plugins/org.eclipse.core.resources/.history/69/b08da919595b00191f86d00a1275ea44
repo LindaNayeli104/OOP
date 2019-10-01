@@ -1,0 +1,15 @@
+import javax.swing.JFrame;
+
+public class VentanaNumerote extends JFrame {
+	public VentanaNumerote() {
+		super("NUMEROTES v.0.0.1");
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		this.setSize(1000, 400);
+		PanelNumerote p=new PanelNumerote();
+		this.add(p);
+		this.setVisible(true);
+	}
+	public static void main(String [] args) {
+		VentanaNumerote vn=new VentanaNumerote();
+	}
+}

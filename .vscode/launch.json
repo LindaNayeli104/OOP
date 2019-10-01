@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arreglos",
+            "request": "launch",
+            "mainClass": "Arreglos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Carro",
+            "request": "launch",
+            "mainClass": "Carro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clock",
+            "request": "launch",
+            "mainClass": "Clock"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Habitacion",
+            "request": "launch",
+            "mainClass": "Habitacion"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntroJava",
+            "request": "launch",
+            "mainClass": "IntroJava"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Libro",
+            "request": "launch",
+            "mainClass": "Libro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MonteCarlo",
+            "request": "launch",
+            "mainClass": "MonteCarlo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UsaTermometro",
+            "request": "launch",
+            "mainClass": "UsaTermometro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-introduccion",
+            "request": "launch",
+            "mainClass": "introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-precedencia",
+            "request": "launch",
+            "mainClass": "precedencia"
+        }
+    ]
+}

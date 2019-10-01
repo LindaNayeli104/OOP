@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/Oscar/Documents/School/Segundo_Semestre/POO/Primer"/>
+		<item value="/Users/Oscar/Documents/School/Segundo_Semestre/POO/Segundo/POO2/Archivos"/>
+		<item value="/Users/Oscar/Documents/School/Segundo_Semestre/POO/Segundo/POO2"/>
+		<item value="/Users/Oscar/Documents/School/Segundo_Semestre/POO/Segundo/POO2/src"/>
+		<item value="/Users/Oscar/Documents/School/Segundo_Semestre/POO/Segundo"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>

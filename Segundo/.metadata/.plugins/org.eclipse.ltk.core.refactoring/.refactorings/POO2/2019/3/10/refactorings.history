@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;Archivos2&apos;&#x0A;- Original project: &apos;POO2&apos;&#x0A;- Destination element: &apos;Archivos2&apos;&#x0A;- Original elements:&#x0A;     CalculaNomina.java&#x0A;     EjemploLector.java&#x0A;     EjemploEscritor.class&#x0A;     EjemploLector.class&#x0A;     EjemploEscritor.java&#x0A;     CalculaNomina.class&#x0A;     Archivo.java" description="Copy files" element1="Archivos/CalculaNomina.java" element2="Archivos/EjemploLector.java" element3="Archivos/EjemploEscritor.class" element4="Archivos/EjemploLector.class" element5="Archivos/EjemploEscritor.java" element6="Archivos/CalculaNomina.class" element7="Archivos/Archivo.java" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1551803908823" target="/POO2/Archivos2" units="0" version="1.0"/>
+</session>
